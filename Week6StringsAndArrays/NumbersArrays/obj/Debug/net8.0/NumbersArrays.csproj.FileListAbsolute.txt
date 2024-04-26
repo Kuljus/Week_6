@@ -1,0 +1,14 @@
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\bin\Debug\net8.0\NumbersArrays.exe
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\bin\Debug\net8.0\NumbersArrays.deps.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\bin\Debug\net8.0\NumbersArrays.runtimeconfig.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\bin\Debug\net8.0\NumbersArrays.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\bin\Debug\net8.0\NumbersArrays.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\obj\Debug\net8.0\NumbersArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\obj\Debug\net8.0\NumbersArrays.AssemblyInfoInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\obj\Debug\net8.0\NumbersArrays.AssemblyInfo.cs
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\obj\Debug\net8.0\NumbersArrays.csproj.CoreCompileInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\obj\Debug\net8.0\NumbersArrays.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\obj\Debug\net8.0\refint\NumbersArrays.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\obj\Debug\net8.0\NumbersArrays.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\obj\Debug\net8.0\NumbersArrays.genruntimeconfig.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 6\Week6StringsAndArrays\NumbersArrays\obj\Debug\net8.0\ref\NumbersArrays.dll
